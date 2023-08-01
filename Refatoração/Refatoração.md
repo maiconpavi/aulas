@@ -6,7 +6,7 @@ A refatoração é necessário no ciclo do desenvolvimento para manter o código
 
 ## Refatoração
 
-* [Nunca Aninhado](Nunca%20Aninhado.md)
-* [Nomeando coisas](Nomeando%20coisas.md)
-* [Não escreva comentários](Não%20escreva%20comentários.md)
+* [Nunca Aninhado](Refatoração/Nunca%20Aninhado.md)
+* [Nomeando coisas](Refatoração/Nomeando%20coisas.md)
+* [Não escreva comentários](Refatoração/Não%20escreva%20comentários.md)
 
