@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c54a6568a2dbdf47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Refatoração/Refatoração.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dce7aaacf906c797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Refatoração/Refatoração.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "387a4bb0e8036e90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "972324f3550d99d8",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.51103591918945
+    "width": 259.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "3620a04c75a4d937",
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refatoração/Refatoração.md",
+                "file": "Refatoração/Nunca Aninhado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refatoração/Refatoração.md",
+                "file": "Refatoração/Nunca Aninhado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refatoração/Refatoração.md"
+                "file": "Refatoração/Nunca Aninhado.md"
               }
             }
           }
@@ -171,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,13 +149,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dce7aaacf906c797",
+  "active": "972324f3550d99d8",
   "lastOpenFiles": [
-    "Refatoração/Nunca Aninhado.md",
     "Refatoração/Refatoração.md",
-    "README.md",
-    "Refatoração/Nomeando coisas.md",
     "Refatoração/Não escreva comentários.md",
+    "Refatoração/Nomeando coisas.md",
+    "Refatoração/Nunca Aninhado.md",
+    "README.md",
     "Refatoração",
     "Untitled.md",
     "Não.md"
